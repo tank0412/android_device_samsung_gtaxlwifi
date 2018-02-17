@@ -156,7 +156,7 @@ CHARGING_ENABLED_PATH := /sys/class/power_supply/battery/batt_lp_charging
 BOARD_VENDOR := samsung
 
 #Hidl
-DEVICE_MANIFEST_FILE := device/samsung/gtaxllte/manifest.xml
+DEVICE_MANIFEST_FILE := device/samsung/gtaxlwifi/manifest.xml
 # Sensors
 TARGET_NO_SENSOR_PERMISSION_CHECK := true
 TARGET_SEC_FP_HAL_VARIANT := bauth
